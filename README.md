@@ -11,7 +11,7 @@ Así que hice un codigo en 2 partes, y aqui las intrucciones de uso.
 
 ![how to](imagenes/como.jpg)
 
-1. Encontrar X e Y de limites del terreno clickeable y el boton de reinicio (usas el script reconocimiento.py)
+1. Encontrar X e Y de limites del terreno clickeable (Puntos Celestes) y el boton de reinicio (usas el script reconocimiento.py)
 2. Cargar esos datos en el script (automatizacion.py)
 3. dejar el script trabajando solo. (automatizacion.py)
 4. cuando alcanses el logro, manten presionada la letra "q" para salir del programa
